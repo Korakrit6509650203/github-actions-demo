@@ -5,7 +5,7 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ $Korakrit6509650203-patch-1 ]
+    branches: [ $main ]
   pull_request:
     branches: [ $Korakrit6509650203-patch-1 ]
 
